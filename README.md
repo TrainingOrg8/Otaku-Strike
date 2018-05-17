@@ -19,9 +19,16 @@ Otaku-Strike是一款基于AR的虚拟现实FPS射击游戏。更多游戏介绍
 
 在美工方面，由于识别精准度问题，为避免模型与地面贴合效果不佳，选择使用了浮游类怪物模型(含动画效果)。在射击UI里，添加了准星。
 
+[Otaku_Strike V1.0 UnityPackage资源包 下载](https://pan.baidu.com/s/1PuSSEEZ8qDYLFB7vlMQs-A)
+### 安卓打包
+参考[Unity项目打包第十一步](https://jingyan.baidu.com/article/6525d4b17e0254ac7d2e9414.html)
 
-[Otaku_Strike V1.0 下载](https://pan.baidu.com/s/1VwWxtDj1C458oJl6jyUfKQ)
+### iOS打包
+参考[Unity项目打包第十一步](https://jingyan.baidu.com/article/6525d4b17e0254ac7d2e9414.html)
 
+[Otaku_Strike V1.0 安卓端AKP下载](https://pan.baidu.com/s/1VwWxtDj1C458oJl6jyUfKQ)
+
+iOS版需用Mac OS系统打包，自己下载Unity资源包自己打包。
 
 ## 下一步计划
 
