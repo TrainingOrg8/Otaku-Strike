@@ -18,6 +18,8 @@ Otaku-Strike是一款基于AR的虚拟现实FPS射击游戏。更多游戏介绍
 * 敌人自动寻路系统
 
 在美工方面，由于识别精准度问题，为避免模型与地面贴合效果不佳，选择使用了浮游类怪物模型(含动画效果)。同时为射击命中添加粒子爆炸特效。在射击UI里，添加了准星。
+
+
 [Otaku_Strike V1.0](https://pan.baidu.com/s/1VwWxtDj1C458oJl6jyUfKQ)
 
 
