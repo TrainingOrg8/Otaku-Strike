@@ -43,6 +43,8 @@ Otaku-Strike是一款基于AR的虚拟现实FPS射击游戏。更多游戏介绍
 
 [Otaku_Strike V1.0 安卓端AKP下载](https://pan.baidu.com/s/1VwWxtDj1C458oJl6jyUfKQ)
 
+[Otaku_Strike V3.0 安卓端AKP下载](https://github.com/TrainingOrg8/Otaku-Strike/blob/master/Otaku_StrikeV3.0.apk)
+
 iOS版需用Mac OS系统打包，自己下载Unity资源包自己打包。
 
 
